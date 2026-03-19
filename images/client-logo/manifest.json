@@ -1,0 +1,282 @@
+[
+  {
+    "file": "logo_01.png",
+    "bbox": [
+      0,
+      0,
+      125,
+      116
+    ],
+    "nonblack_pixels": 9935
+  },
+  {
+    "file": "logo_02.png",
+    "bbox": [
+      179,
+      0,
+      300,
+      125
+    ],
+    "nonblack_pixels": 6928
+  },
+  {
+    "file": "logo_03.png",
+    "bbox": [
+      563,
+      0,
+      716,
+      125
+    ],
+    "nonblack_pixels": 10163
+  },
+  {
+    "file": "logo_04.png",
+    "bbox": [
+      956,
+      0,
+      1085,
+      116
+    ],
+    "nonblack_pixels": 4795
+  },
+  {
+    "file": "logo_05.png",
+    "bbox": [
+      356,
+      3,
+      508,
+      108
+    ],
+    "nonblack_pixels": 9222
+  },
+  {
+    "file": "logo_06.png",
+    "bbox": [
+      4,
+      116,
+      116,
+      236
+    ],
+    "nonblack_pixels": 5658
+  },
+  {
+    "file": "logo_07.png",
+    "bbox": [
+      388,
+      123,
+      477,
+      236
+    ],
+    "nonblack_pixels": 4574
+  },
+  {
+    "file": "logo_08.png",
+    "bbox": [
+      168,
+      137,
+      315,
+      221
+    ],
+    "nonblack_pixels": 5697
+  },
+  {
+    "file": "logo_09.png",
+    "bbox": [
+      752,
+      140,
+      928,
+      213
+    ],
+    "nonblack_pixels": 3597
+  },
+  {
+    "file": "logo_10.png",
+    "bbox": [
+      932,
+      146,
+      1086,
+      207
+    ],
+    "nonblack_pixels": 2553
+  },
+  {
+    "file": "logo_11.png",
+    "bbox": [
+      547,
+      147,
+      732,
+      204
+    ],
+    "nonblack_pixels": 3370
+  },
+  {
+    "file": "logo_12.png",
+    "bbox": [
+      158,
+      228,
+      325,
+      332
+    ],
+    "nonblack_pixels": 10141
+  },
+  {
+    "file": "logo_13.png",
+    "bbox": [
+      948,
+      236,
+      1086,
+      332
+    ],
+    "nonblack_pixels": 7635
+  },
+  {
+    "file": "logo_14.png",
+    "bbox": [
+      340,
+      244,
+      524,
+      325
+    ],
+    "nonblack_pixels": 8355
+  },
+  {
+    "file": "logo_15.png",
+    "bbox": [
+      0,
+      252,
+      140,
+      315
+    ],
+    "nonblack_pixels": 4623
+  },
+  {
+    "file": "logo_16.png",
+    "bbox": [
+      554,
+      252,
+      717,
+      316
+    ],
+    "nonblack_pixels": 3306
+  },
+  {
+    "file": "logo_17.png",
+    "bbox": [
+      730,
+      258,
+      936,
+      310
+    ],
+    "nonblack_pixels": 3349
+  },
+  {
+    "file": "logo_18.png",
+    "bbox": [
+      155,
+      325,
+      326,
+      430
+    ],
+    "nonblack_pixels": 4932
+  },
+  {
+    "file": "logo_19.png",
+    "bbox": [
+      732,
+      339,
+      940,
+      444
+    ],
+    "nonblack_pixels": 12539
+  },
+  {
+    "file": "logo_20.png",
+    "bbox": [
+      356,
+      348,
+      509,
+      422
+    ],
+    "nonblack_pixels": 4634
+  },
+  {
+    "file": "logo_21.png",
+    "bbox": [
+      0,
+      354,
+      140,
+      428
+    ],
+    "nonblack_pixels": 3361
+  },
+  {
+    "file": "logo_22.png",
+    "bbox": [
+      547,
+      355,
+      716,
+      429
+    ],
+    "nonblack_pixels": 3439
+  },
+  {
+    "file": "logo_23.png",
+    "bbox": [
+      11,
+      428,
+      115,
+      514
+    ],
+    "nonblack_pixels": 5604
+  },
+  {
+    "file": "logo_24.png",
+    "bbox": [
+      787,
+      435,
+      892,
+      514
+    ],
+    "nonblack_pixels": 5035
+  },
+  {
+    "file": "logo_25.png",
+    "bbox": [
+      940,
+      454,
+      1086,
+      514
+    ],
+    "nonblack_pixels": 5393
+  },
+  {
+    "file": "logo_26.png",
+    "bbox": [
+      140,
+      455,
+      341,
+      514
+    ],
+    "nonblack_pixels": 3954
+  },
+  {
+    "file": "logo_27.png",
+    "bbox": [
+      357,
+      459,
+      508,
+      514
+    ],
+    "nonblack_pixels": 4039
+  },
+  {
+    "file": "logo_28.png",
+    "bbox": [
+      556,
+      459,
+      715,
+      514
+    ],
+    "nonblack_pixels": 2761
+  }
+]
